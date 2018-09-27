@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\klaus\downloads\project51\project51\MyForm.h(158): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  Project51.vcxproj -> C:\Users\klaus\Downloads\Project51\x64\Debug\LagRunner.exe
+  Project51.vcxproj -> C:\Users\klaus\Downloads\Project51\x64\Debug\LagRunner.pdb (Full PDB)
